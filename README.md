@@ -1,2 +1,2 @@
-# intugine-typedoc-theme
+# TypeDoc Theme at Intugine Technologies
 
