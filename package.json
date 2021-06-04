@@ -1,6 +1,6 @@
 {
   "name": "intugine-typedoc-theme",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Standard theme for typedoc documentation in Intugine",
   "author": "Navneet Lal Gupta <navneetlalg@gmail.com>",
   "license": "MIT",
